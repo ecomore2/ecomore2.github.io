@@ -37,3 +37,13 @@ request for additional feature by clicking `New issue`
 * Epidemiological data: [CSV](https://raw.githubusercontent.com/ecomore2/pacs/master/data/pacs.csv), [description](https://ecomore2.github.io/pacs)
 * GPS data: [CSV](https://raw.githubusercontent.com/ecomore2/gps/master/data/gps.csv), [description](https://ecomore2.github.io/gps)
 * 2015 census data: [CSV](https://raw.githubusercontent.com/ecomore2/census/master/data/census.csv), [description](https://ecomore2.github.io/census)
+
+## R packages
+
+* [ecomore](https://ecomore2.github.io/ecomore): code used in the project.
+* [rama](https://r-and-gama.github.io/rama): an R interface to the Agend-Based
+Modeling platform [GAMA](https://gama-platform.github.io).
+
+## Studies
+
+* [Spatio-temporal dynamics of dengue incidence](https://ecomore2.github.io/spatio-temporal-description)
