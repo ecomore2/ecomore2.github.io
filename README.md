@@ -7,6 +7,24 @@
 
 <!-- badges: end -->
 
+## Context
+
+This is the Lao package of the [Ecomore 2](http://www.ecomore.org)
+project, focused on the epidemiology of dengue in the province of
+Vientiane prefecture, Lao PDR. The project is funded by the [Agence
+Française de Développement](https://afd.fr) and run by the [Institut
+Pasteur du Laos](http://www.pasteur.la), in collaboration with the
+[Institut de Recherche pour le Développement](https://en.ird.fr) and the
+[Centre National de Recherche Scientifique](http://www.cnrs.fr).
+
+**Contact:** please contact Dr. Marc Grandadam (PI,
+<m.grandadam@pasteur.la>) for any question regarding the project and its
+data.
+
+**Bug report and feature request**: you can report bugs or
+inconsistencies or request for additional feature by clicking `New
+issue` [here](https://github.com/ecomore2/ecomore2.github.io/issues).
+
 ## Data sets
 
   - Epidemiological data:
