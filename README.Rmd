@@ -23,7 +23,7 @@ Lao PDR. The project is funded by the
 [Agence Française de Développement](https://afd.fr) and run by the
 [Institut Pasteur du Laos](http://www.pasteur.la), in collaboration with the
 [Institut de Recherche pour le Développement](https://en.ird.fr) and the
-[Centre National de Recherche Scientifique](http://www.cnrs.fr).
+[Centre National de la Recherche Scientifique](http://www.cnrs.fr).
 
 **Contact:** please contact Dr. Marc Grandadam (PI, <m.grandadam@pasteur.la>)
 for any question regarding the project and its data.
