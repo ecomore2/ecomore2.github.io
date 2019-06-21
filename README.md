@@ -36,6 +36,8 @@ issue` [here](https://github.com/ecomore2/ecomore2.github.io/issues).
   - 2015 census data:
     [CSV](https://raw.githubusercontent.com/ecomore2/census/master/data/census.csv),
     [description](https://ecomore2.github.io/census)
+  - Villages polygons:
+    [description](https://ecomore2.github.io/villages-polygons)
 
 ## R packages
 
