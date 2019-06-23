@@ -40,6 +40,9 @@ issue` [here](https://github.com/ecomore2/ecomore2.github.io/issues).
     [description](https://ecomore2.github.io/villages-polygons)
   - Population and urbanisation [WorldPop](https://www.worldpop.org)
     data: [description](https://ecomore2.github.io/worldpop)
+  - Land cover data from [ESA](https://www.esa.int)’s
+    [GlobCover](http://due.esrin.esa.int/page_globcover.php) project:
+    [description](https://ecomore2.github.io/globcover)
 
 ## R packages
 

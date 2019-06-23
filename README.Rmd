@@ -39,6 +39,9 @@ request for additional feature by clicking `New issue`
 * 2015 [LBS](https://www.lsb.gov.la) census data: [CSV](https://raw.githubusercontent.com/ecomore2/census/master/data/census.csv), [description](https://ecomore2.github.io/census)
 * Villages polygons: [description](https://ecomore2.github.io/villages-polygons)
 * Population and urbanisation [WorldPop](https://www.worldpop.org) data: [description](https://ecomore2.github.io/worldpop)
+* Land cover data from [ESA](https://www.esa.int)'s 
+[GlobCover](http://due.esrin.esa.int/page_globcover.php) project: 
+[description](https://ecomore2.github.io/globcover) 
 
 ## R packages
 
