@@ -43,6 +43,9 @@ issue` [here](https://github.com/ecomore2/ecomore2.github.io/issues).
   - Land cover data from [ESA](https://www.esa.int)’s
     [GlobCover](http://due.esrin.esa.int/page_globcover.php) project:
     [description](https://ecomore2.github.io/globcover)
+  - Meteorological data from [Tutiempo.net](https://en.tutiempo.net):
+    [CSV](https://raw.githubusercontent.com/ecomore2/meteo/master/data/meteo.csv),
+    [description](https://ecomore2.github.io/meteo)
 
 ## R packages
 
