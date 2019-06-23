@@ -33,11 +33,13 @@ issue` [here](https://github.com/ecomore2/ecomore2.github.io/issues).
   - GPS data:
     [CSV](https://raw.githubusercontent.com/ecomore2/gps/master/data/gps.csv),
     [description](https://ecomore2.github.io/gps)
-  - 2015 census data:
+  - 2015 [LBS](https://www.lsb.gov.la) census data:
     [CSV](https://raw.githubusercontent.com/ecomore2/census/master/data/census.csv),
     [description](https://ecomore2.github.io/census)
   - Villages polygons:
     [description](https://ecomore2.github.io/villages-polygons)
+  - Population and urbanisation [WorldPop](https://www.worldpop.org)
+    data: [description](https://ecomore2.github.io/worldpop)
 
 ## R packages
 
