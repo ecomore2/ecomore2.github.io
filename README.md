@@ -46,6 +46,10 @@ issue` [here](https://github.com/ecomore2/ecomore2.github.io/issues).
   - Meteorological data from [Tutiempo.net](https://en.tutiempo.net):
     [CSV](https://raw.githubusercontent.com/ecomore2/meteo/master/data/meteo.csv),
     [description](https://ecomore2.github.io/meteo)
+  - Built-up data from the [EU](https://ec.europa.eu/jrc/en)’s
+    [GHSL](https://ghsl.jrc.ec.europa.eu) project : [raster
+    files](https://www.dropbox.com/sh/uj3872y5keso5ev/AACXrlnC1YCk_PYkb0nhgD5Ea?dl=0),
+    [description](https://ecomore2.github.io/ghsl)
 
 ## R packages
 
