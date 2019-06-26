@@ -34,17 +34,17 @@ request for additional feature by clicking `New issue`
 
 ## Data sets
 
-* Epidemiological data: [CSV](https://raw.githubusercontent.com/ecomore2/pacs/master/data/pacs.csv), [description](https://ecomore2.github.io/pacs)
-* GPS data: [CSV](https://raw.githubusercontent.com/ecomore2/gps/master/data/gps.csv), [description](https://ecomore2.github.io/gps)
+* Epidemiological data (2012-present): [CSV](https://raw.githubusercontent.com/ecomore2/pacs/master/data/pacs.csv), [description](https://ecomore2.github.io/pacs)
+* GPS data (2012-present): [CSV](https://raw.githubusercontent.com/ecomore2/gps/master/data/gps.csv), [description](https://ecomore2.github.io/gps)
 * 2015 [LBS](https://www.lsb.gov.la) census data: [CSV](https://raw.githubusercontent.com/ecomore2/census/master/data/census.csv), [description](https://ecomore2.github.io/census)
-* Villages polygons: [description](https://ecomore2.github.io/villages-polygons)
-* Population and urbanisation [WorldPop](https://www.worldpop.org) data: [description](https://ecomore2.github.io/worldpop)
+* Villages polygons (2015): [description](https://ecomore2.github.io/villages-polygons)
+* Population and urbanisation [WorldPop](https://www.worldpop.org) data (2010, 2015): [description](https://ecomore2.github.io/worldpop)
 * Land cover data from [ESA](https://www.esa.int)'s 
-[GlobCover](http://due.esrin.esa.int/page_globcover.php) project: 
+[GlobCover](http://due.esrin.esa.int/page_globcover.php) project (2005, 2009): 
 [description](https://ecomore2.github.io/globcover)
-* Meteorological data from [Tutiempo.net](https://en.tutiempo.net): [CSV](https://raw.githubusercontent.com/ecomore2/meteo/master/data/meteo.csv), [description](https://ecomore2.github.io/meteo)
+* Daily meteorological data from [Tutiempo.net](https://en.tutiempo.net) (2010-present): [CSV](https://raw.githubusercontent.com/ecomore2/meteo/master/data/meteo.csv), [description](https://ecomore2.github.io/meteo)
 * Built-up data from the [EU](https://ec.europa.eu/jrc/en)'s
-[GHSL](https://ghsl.jrc.ec.europa.eu) project :
+[GHSL](https://ghsl.jrc.ec.europa.eu) project (1990, 2000, 2014):
 [raster files](https://www.dropbox.com/sh/uj3872y5keso5ev/AACXrlnC1YCk_PYkb0nhgD5Ea?dl=0), 
 [description](https://ecomore2.github.io/ghsl)
 
