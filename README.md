@@ -38,7 +38,7 @@ issue` [here](https://github.com/ecomore2/ecomore2.github.io/issues).
     (1.9 MB), [description](https://ecomore2.github.io/census)
   - [LBS](https://www.lsb.gov.la)’s villages polygons (2015):
     [description](https://ecomore2.github.io/villages-polygons)
-  - [Tutiempo.net](https://en.tutiempo.net)’s daily meteorological data
+  - [TuTiempo.net](https://en.tutiempo.net)’s daily meteorological data
     (4 stations, 2010-present):
     [description](https://ecomore2.github.io/meteo)
       - [meteo.csv](https://raw.githubusercontent.com/ecomore2/meteo/master/data/meteo.csv)

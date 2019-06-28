@@ -38,7 +38,7 @@ request for additional feature by clicking `New issue`
 * [IPL](http://www.pasteur.la)'s GPS data (2012-present): [CSV](https://raw.githubusercontent.com/ecomore2/gps/master/data/gps.csv) (66 KB), [description](https://ecomore2.github.io/gps)
 * [LBS](https://www.lsb.gov.la)'s census data (2015): [CSV](https://raw.githubusercontent.com/ecomore2/census/master/data/census.csv) (1.9 MB), [description](https://ecomore2.github.io/census)
 * [LBS](https://www.lsb.gov.la)'s villages polygons (2015): [description](https://ecomore2.github.io/villages-polygons)
-* [Tutiempo.net](https://en.tutiempo.net)'s daily meteorological data (4 stations, 2010-present): [description](https://ecomore2.github.io/meteo)
+* [TuTiempo.net](https://en.tutiempo.net)'s daily meteorological data (4 stations, 2010-present): [description](https://ecomore2.github.io/meteo)
    + [meteo.csv](https://raw.githubusercontent.com/ecomore2/meteo/master/data/meteo.csv) (905 KB)
    + [stations.csv](https://raw.githubusercontent.com/ecomore2/meteo/master/data/stations.csv) (211 B, [EPSG](http://www.epsg.org):[4326](https://epsg.io/4326) projection in decimal degrees)
 * [ESA](https://www.esa.int)'s
