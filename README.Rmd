@@ -36,20 +36,22 @@ request for additional feature by clicking `New issue`
 
 * [IPL](http://www.pasteur.la)'s epidemiological data (2012-present): [CSV](https://raw.githubusercontent.com/ecomore2/pacs/master/data/pacs.csv) (1.2 MB), [description](https://ecomore2.github.io/pacs)
 * [IPL](http://www.pasteur.la)'s GPS data (2012-present): [CSV](https://raw.githubusercontent.com/ecomore2/gps/master/data/gps.csv) (66 KB), [description](https://ecomore2.github.io/gps)
-* [Tutiempo.net](https://en.tutiempo.net)'s daily meteorological data (4 stations, 2010-present): [CSV](https://raw.githubusercontent.com/ecomore2/meteo/master/data/meteo.csv) (948 KB), [description](https://ecomore2.github.io/meteo)
 * [LBS](https://www.lsb.gov.la)'s census data (2015): [CSV](https://raw.githubusercontent.com/ecomore2/census/master/data/census.csv) (1.9 MB), [description](https://ecomore2.github.io/census)
 * [LBS](https://www.lsb.gov.la)'s villages polygons (2015): [description](https://ecomore2.github.io/villages-polygons)
+* [Tutiempo.net](https://en.tutiempo.net)'s daily meteorological data (4 stations, 2010-present): [description](https://ecomore2.github.io/meteo)
+   + [meteo.csv](https://raw.githubusercontent.com/ecomore2/meteo/master/data/meteo.csv) (905 KB)
+   + [stations.csv](https://raw.githubusercontent.com/ecomore2/meteo/master/data/stations.csv) (211 B, [EPSG](http://www.epsg.org):[4326](https://epsg.io/4326) projection in decimal degrees)
 * [ESA](https://www.esa.int)'s
-  [GlobCover](http://due.esrin.esa.int/page_globcover.php)'s land cover data (300-m resolution): 
+  [GlobCover](http://due.esrin.esa.int/page_globcover.php)'s land cover data (300-m resolution, [EPSG](http://www.epsg.org):[4326](https://epsg.io/4326) projection in decimal degrees): 
   [description](https://ecomore2.github.io/globcover)
    + 2005: [GlobCover2005_V2.2.tif](https://www.dropbox.com/s/gp790fng3awwb7t/Globcover2005_V2.2.tif?raw=1) (37 Ko)
    + 2009: [GlobCover2009_V2.3.tif](https://www.dropbox.com/s/d2fdtq8jofs38tf/Globcover2009_V2.3.tif?raw=1) (38 Ko)
 * [EU](https://ec.europa.eu/jrc/en)'s
-  [GHSL](https://ghsl.jrc.ec.europa.eu)'s built-up data (38-m resolution): [description](https://ecomore2.github.io/ghsl)
+  [GHSL](https://ghsl.jrc.ec.europa.eu)'s built-up data (38-m resolution, [EPSG](http://www.epsg.org):[3857](https://epsg.io/3857) projection in decimal degrees): [description](https://ecomore2.github.io/ghsl)
    + 1990: [builtup1990res38m3857.tif](https://www.dropbox.com/s/4sxdsmj0s2nxy5c/builtup1990res38m3857.tif?raw=1) (1 MB)
    + 2000: [builtup2000res38m3857.tif](https://www.dropbox.com/s/en0u787brvk75pe/builtup2000res38m3857.tif?raw=1) (1 MB)
    + 2014: [builtup2014res38m3857.tif](https://www.dropbox.com/s/0jxx754zudgldf2/builtup2014res38m3857.tif?raw=1) (1 MB)
-* [WorldPop](https://www.worldpop.org)'s population and urbanisation data (90-m resolution): [description](https://ecomore2.github.io/worldpop)
+* [WorldPop](https://www.worldpop.org)'s population and urbanisation data (90-m resolution, [EPSG](http://www.epsg.org):[4326](https://epsg.io/4326) projection in decimal degrees): [description](https://ecomore2.github.io/worldpop)
    + [Population](https://www.worldpop.org/geodata/summary?id=61) data (2010, 2015):
       - [VT_popmap10_admin001.tif](https://www.dropbox.com/s/b1byouuilije6ly/VT_popmap10_admin001.tif?raw=1) (2.1 MB)
       - [VT_popmap10adj_admin001.tif](https://www.dropbox.com/s/9ottfpf34oznywx/VT_popmap10adj_admin001.tif?raw=1) (2.1 MB)
